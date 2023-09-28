@@ -54,10 +54,10 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
+# &twitter_username
 # Social Sharing
 twitter:
-  username               : &twitter "hpjhuang"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "hpjhuang"
   vine             :
   weibo            :
   xing             :
